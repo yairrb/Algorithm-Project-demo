@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #ccc;
+}
+
+#content{
+    width: 100%;
+}
+
+#myCanvas{
+    display: block;
+    margin: 0px auto;
+    margin-top: 25px;
+    background-color: #333;
+    border: 1px solid black;
+}
