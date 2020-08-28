@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #ccc;
+    background-color: #333;
 }
 
 #content{
@@ -16,5 +16,4 @@ body{
     margin: 0px auto;
     margin-top: 25px;
     background-color: #333;
-    border: 1px solid black;
 }
