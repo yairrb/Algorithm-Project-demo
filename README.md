@@ -3,8 +3,8 @@
 ## Sorting algorithm virtualization
 Here you wild find a demostration of how some sorting algorithms work. I'll provide a list of the algorithm that I made for this virtualization.
 
-### Bubble Sort
 resource for explanation:
+### Bubble Sort
 https://en.wikipedia.org/wiki/Bubble_sort
 ### Quick Sort
 https://es.wikipedia.org/wiki/Quicksort
