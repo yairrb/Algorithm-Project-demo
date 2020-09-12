@@ -1,11 +1,16 @@
 # Algorithm-Project-demo
 
 ## Sorting algorithm virtualization
-
-In this repo you would find a simple demostration of how the sorting algorithm works. There are many of them and for now we can watch 3 of them:
+Here you wild find a demostration of how some sorting algorithms work. I'll provide a list of the algorithm that I made for this virtualization.
 
 ### Bubble Sort
-
+resource for explanation:
+https://en.wikipedia.org/wiki/Bubble_sort
 ### Quick Sort
-
+https://es.wikipedia.org/wiki/Quicksort
 ### Heap Sort
+https://en.wikipedia.org/wiki/Heapsort
+
+I use Promises for make this work and Canvas for drawing the rectangles. you would notice that there's one function Draw() that draw the rectangles over and over taking the coordenates form one array. This project can grow and be more cool by changing the way rectangles are being drawed.
+There is an example of the final result
+
