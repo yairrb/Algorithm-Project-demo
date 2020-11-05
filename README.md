@@ -1,7 +1,7 @@
 # Algorithm-Project-demo
 
 ## Sorting algorithm virtualization
-Here you wild find a demostration of how some sorting algorithms work. I'll provide a list of the algorithm that I made for this virtualization.
+Here you will find a demostration of how some sorting algorithms work. I'll provide a list of the algorithm that I made for this virtualization.
 
 resource for explanation:
 ### Bubble Sort
